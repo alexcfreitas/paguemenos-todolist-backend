@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/PagueMenos.TodoList.Backend.props" />
+</Project>
